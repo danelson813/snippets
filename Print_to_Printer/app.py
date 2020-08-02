@@ -1,8 +1,9 @@
-import random, logging
+# !/usr/bin/python
+import os
 
 
-class UserAgentRotator():
-    
-    def __init__(self, user_agent=''):
-        self.user_agent = user_agent
-    
+def to_printer(file):
+    base = 'lpr -P HP_Officejet_Pro_8610 '
+    os.system(base + file)
+
+to_printer("geckodriver.log")
