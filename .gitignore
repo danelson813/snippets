@@ -1,5 +1,5 @@
 .vscode
 ua list
 *.log
-../Pipfile
-../pipenv/
+Pipfile
+pipenv/
