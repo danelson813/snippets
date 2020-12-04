@@ -1,14 +1,14 @@
-import scrapy   
+import scrapy
 from scrapy.crawler import CrawlerProcess
 
 
-class TestSpider(scrapy.Spider):   
-    name = 'test' 
+class TestSpider(scrapy.Spider):
+    name = 'test'
     # start_urls = ['https://books.toscrape.com',
-    #               'https://quotes.toscrape.com'] 
+    #               'https://quotes.toscrape.com']
 
 
-    custom_settings = { 'DOWNLOAD_DELAY': 1 }   
+    custom_settings = { 'DOWNLOAD_DELAY': 1 }
         
 
 
@@ -32,11 +32,12 @@ class TestSpider(scrapy.Spider):
         
 
 
-if __name__ == "__main__":   
+if __name__ == "__main__":
     process = CrawlerProcess({
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
         'FEED_FORMAT': 'csv',
         'FEED_URI': 'data.csv'
-    })   
-    process.crawl(TestSpider)   
+    })
+    process.crawl(TestSpider)
     process.start()
+
