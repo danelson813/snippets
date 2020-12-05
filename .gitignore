@@ -3,3 +3,4 @@ ua list
 *.log
 Pipfile
 pipenv/
+.gitignore
