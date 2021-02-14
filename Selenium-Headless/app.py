@@ -5,7 +5,7 @@
 '''
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-# from selenium.webdriver.common.by import By
+#  
 
 
 if __name__ == "__main__":
