@@ -4,3 +4,6 @@ ua list
 Pipfile
 pipenv/
 .gitignore
+scrapy_script/app.py
+scrapy_script/data.csv
+scrapy_script/data.json
