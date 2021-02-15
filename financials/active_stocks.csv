@@ -1,0 +1,101 @@
+stock_name,intraday_price,change,volume,market_cap
+GameStop Corp. (GME),65.01,+21.98 (+51.08%),"195,711,513",4.534B
+Bed Bath & Beyond Inc. (BBBY),30.21,+3.34 (+12.43%),"38,732,588",3.662B
+International Business Machines Corporation (IBM),118.61,-13.04 (-9.91%),"38,014,430",105.688B
+American Airlines Group Inc. (AAL),15.82,-0.01 (-0.06%),"39,126,567",9.662B
+"FuelCell Energy, Inc. (FCEL)",18.13,+0.84 (+4.86%),"39,505,592",5.845B
+Bank of America Corporation (BAC),31.55,-0.22 (-0.69%),"44,318,420",272.933B
+Plug Power Inc. (PLUG),66.87,+3.18 (+4.99%),"40,373,285",31.298B
+General Electric Company (GE),11.11,+0.04 (+0.36%),"51,085,392",97.322B
+Nano Dimension Ltd. (NNDM),14.39,+1.79 (+14.21%),"52,580,308",2.476B
+"Advanced Micro Devices, Inc. (AMD)",92.79,+1.26 (+1.38%),"71,294,707",111.726B
+Intel Corporation (INTC),56.66,-5.80 (-9.29%),"85,729,315",230.21B
+Churchill Capital Corp IV (CCIV),22.35,+4.54 (+25.49%),"88,639,364",5.783B
+Apple Inc. (AAPL),139.07,+2.20 (+1.61%),"114,459,360",2.34T
+"Bionano Genomics, Inc. (BNGO)",9.8,+1.53 (+18.50%),"115,879,779",2.664B
+BlackBerry Limited (BB),14.04,+1.19 (+9.26%),"116,717,754",7.944B
+Ford Motor Company (F),11.52,-0.01 (-0.09%),"127,493,453",45.832B
+"Pinterest, Inc. (PINS)",73.08,-0.44 (-0.60%),"9,554,636",45.169B
+"salesforce.com, inc. (CRM)",225.77,+3.60 (+1.62%),"10,186,076",207.197B
+"Corsair Gaming, Inc. (CRSR)",38.38,+1.65 (+4.49%),"10,203,302",3.528B
+Cleveland-Cliffs Inc. (CLF),16.4,+0.08 (+0.49%),"10,251,808",7.83B
+"Annaly Capital Management, Inc. (NLY)",8.36,0.00 (0.00%),"10,409,807",11.689B
+Yamana Gold Inc. (AUY),5.19,-0.04 (-0.76%),"10,729,229",4.956B
+Companhia Energética de Minas Gerais (CIG),2.59,-0.0200 (-0.77%),"10,873,114",4.147B
+"CEMEX, S.A.B. de C.V. (CX)",6.24,-0.22 (-3.41%),"11,005,859",9.427B
+JPMorgan Chase & Co. (JPM),133.79,-1.04 (-0.77%),"12,704,946",407.979B
+Alcoa Corporation (AA),19.4,-0.61 (-3.05%),"11,086,233",3.608B
+Norwegian Cruise Line Holdings Ltd. (NCLH),24.59,-0.40 (-1.60%),"11,290,066",7.761B
+"Delta Air Lines, Inc. (DAL)",40.0,-0.67 (-1.65%),"11,065,228",25.509B
+Schlumberger Limited (SLB),24.41,+0.22 (+0.91%),"13,556,586",33.979B
+Aphria Inc. (APHA),12.92,+0.24 (+1.89%),"11,367,144",4.124B
+"Clover Health Investments, Corp. (CLOV)",13.55,-0.04 (-0.29%),"11,561,950",5.48B
+United Microelectronics Corporation (UMC),10.27,+0.27 (+2.70%),"11,918,805",25.156B
+"American Eagle Outfitters, Inc. (AEO)",24.28,+0.35 (+1.46%),"12,198,495",4.035B
+"Virgin Galactic Holdings, Inc. (SPCE)",34.28,+1.01 (+3.04%),"12,691,026",8.033B
+"Twitter, Inc. (TWTR)",48.06,+0.94 (+1.99%),"13,418,393",38.225B
+XL Fleet Corp. (XL),21.0,+1.81 (+9.43%),"12,215,548",2.73B
+Tencent Music Entertainment Group (TME),27.02,+1.00 (+3.84%),"11,995,838",45.327B
+Barrick Gold Corporation (GOLD),23.47,-0.21 (-0.89%),"13,045,544",41.96B
+PG&E Corporation (PCG),11.72,-0.27 (-2.25%),"12,963,651",23.259B
+AstraZeneca PLC (AZN),53.25,+0.70 (+1.33%),"13,372,689",140.133B
+Alibaba Group Holding Limited (BABA),258.62,-1.38 (-0.53%),"12,835,462",699.715B
+"United Airlines Holdings, Inc. (UAL)",42.14,-0.45 (-1.06%),"13,544,971",13.141B
+Enterprise Products Partners L.P. (EPD),21.56,-0.86 (-3.84%),"13,609,262",47.063B
+"Sorrento Therapeutics, Inc. (SRNE)",9.64,-0.34 (-3.41%),"14,027,346",2.638B
+Takeda Pharmaceutical Company Limited (TAK),18.13,+0.83 (+4.80%),"14,324,042",54.168B
+Halliburton Company (HAL),19.24,-0.17 (-0.88%),"13,989,797",17.008B
+"Micron Technology, Inc. (MU)",82.28,-2.73 (-3.21%),"14,229,542",92.044B
+GSX Techedu Inc. (GSX),92.0,+13.92 (+17.83%),"15,061,163",21.955B
+QuantumScape Corporation (QS),49.68,-0.32 (-0.64%),"14,174,344",18.082B
+ViacomCBS Inc. (VIAC),45.58,+0.47 (+1.04%),"14,450,430",28.156B
+Kinross Gold Corporation (KGC),7.01,-0.12 (-1.68%),"12,261,252",8.893B
+"Cisco Systems, Inc. (CSCO)",44.77,-0.34 (-0.75%),"14,643,420",189.176B
+BP p.l.c. (BP),23.87,-0.15 (-0.62%),"14,976,414",80.988B
+The Coca-Cola Company (KO),48.49,-0.46 (-0.94%),"14,807,641",208.382B
+Morgan Stanley (MS),74.13,-0.57 (-0.76%),"14,921,816",134.116B
+United States Steel Corporation (X),18.91,-0.32 (-1.66%),"15,397,942",4.168B
+Freeport-McMoRan Inc. (FCX),30.49,+0.45 (+1.50%),"17,207,491",44.298B
+3D Systems Corporation (DDD),34.48,+3.10 (+9.88%),"15,777,302",4.28B
+SunPower Corporation (SPWR),47.21,+3.43 (+7.83%),"16,190,559",8.033B
+Snap Inc. (SNAP),53.57,-0.83 (-1.53%),"16,053,468",79.818B
+Verizon Communications Inc. (VZ),57.47,+0.20 (+0.35%),"15,915,425",237.816B
+Devon Energy Corporation (DVN),17.8,-0.59 (-3.21%),"16,557,245",11.969B
+"DuPont de Nemours, Inc. (DD)",81.09,+0.11 (+0.14%),"16,852,917",59.508B
+Occidental Petroleum Corporation (OXY),21.49,-0.05 (-0.23%),"17,222,517",20.012B
+"Kinder Morgan, Inc. (KMI)",15.32,+0.06 (+0.39%),"17,185,492",34.681B
+Concho Resources Inc. (CXO),65.6,0.00 (0.00%),"18,053,801",12.877B
+First Majestic Silver Corp. (AG),14.0,+0.46 (+3.40%),"17,714,043",3.113B
+"Macy's, Inc. (M)",12.88,+0.56 (+4.55%),"18,944,039",3.999B
+Taiwan Semiconductor Manufacturing Company Limited (TSM),129.14,-5.02 (-3.74%),"18,480,777",603.174B
+Sirius XM Holdings Inc. (SIRI),5.97,-0.02 (-0.33%),"19,289,215",25.37B
+Southwestern Energy Company (SWN),3.41,+0.0200 (+0.59%),"18,941,581",2.3B
+"Uber Technologies, Inc. (UBER)",54.31,-1.48 (-2.65%),"18,635,196",100.545B
+"Tesla, Inc. (TSLA)",846.64,+1.65 (+0.20%),"20,066,497",802.531B
+Li Auto Inc. (LI),34.44,-0.93 (-2.63%),"20,406,221",30.913B
+"Tilray, Inc. (TLRY)",18.02,+0.10 (+0.56%),"20,946,019",2.603B
+XPeng Inc. (XPEV),56.39,+2.08 (+3.83%),"22,003,948",40.216B
+"Facebook, Inc. (FB)",274.5,+1.63 (+0.60%),"21,954,042",781.856B
+Exxon Mobil Corporation (XOM),47.43,-0.68 (-1.41%),"22,047,989",200.545B
+Vale S.A. (VALE),17.21,-0.26 (-1.49%),"23,194,693",88.286B
+General Motors Company (GM),55.4,+0.32 (+0.58%),"23,332,153",79.295B
+Wells Fargo & Company (WFC),31.9,-0.10 (-0.31%),"23,016,050",132.194B
+Citigroup Inc. (C),61.33,-0.54 (-0.87%),"21,281,024",127.695B
+Carnival Corporation & Plc (CCL),20.22,-0.52 (-2.51%),"24,368,884",22.323B
+Energy Transfer LP (ET),6.5,-0.12 (-1.81%),"25,293,829",17.535B
+Jumia Technologies AG (JMIA),56.96,+11.39 (+24.99%),"25,708,476",5.081B
+Pfizer Inc. (PFE),36.55,+0.07 (+0.19%),"26,210,907",203.16B
+Marathon Oil Corporation (MRO),8.15,-0.10 (-1.21%),"26,125,287",6.434B
+Nokia Corporation (NOK),4.2,-0.0200 (-0.47%),"28,868,369",23.166B
+Zynga Inc. (ZNGA),10.71,+0.36 (+3.48%),"29,934,120",11.556B
+Microsoft Corporation (MSFT),225.95,+0.98 (+0.44%),"30,172,663",1.708T
+Coty Inc. (COTY),6.33,-0.56 (-8.13%),"30,797,646",4.848B
+Petróleo Brasileiro S.A. - Petrobras (PBR),10.19,-0.34 (-3.23%),"32,020,171",66.794B
+Huntington Bancshares Incorporated (HBAN),13.84,-0.67 (-4.62%),"31,658,091",14.148B
+fuboTV Inc. (FUBO),37.72,+2.22 (+6.25%),"33,514,439",2.548B
+Ambev S.A. (ABEV),2.8,-0.1400 (-4.76%),"34,233,585",44.446B
+AT&T Inc. (T),28.93,+0.10 (+0.35%),"33,353,331",206.155B
+Itaú Unibanco Holding S.A. (ITUB),5.4,-0.18 (-3.23%),"35,320,934",50.397B
+Banco Bradesco S.A. (BBD),4.59,-0.1900 (-3.97%),"35,204,583",38.687B
+NIO Limited (NIO),61.95,+3.61 (+6.19%),"132,427,878",96.574B
+Palantir Technologies Inc. (PLTR),32.58,+6.60 (+25.40%),"156,844,666",48.789B

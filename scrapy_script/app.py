@@ -33,11 +33,15 @@ class TestSpider(scrapy.Spider):
 
 
 if __name__ == "__main__":
+    file = 'data.csv'
+    format = 'csv'
     process = CrawlerProcess({
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
-        'FEED_FORMAT': 'csv',
-        'FEED_URI': 'data.csv'
+        'FEEDS':  {
+            file: {'format': format},
+        }
     })
     process.crawl(TestSpider)
     process.start()
+
 
